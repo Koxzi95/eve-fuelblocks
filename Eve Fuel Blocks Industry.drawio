@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-08T19:38:30.577Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="TNtsbotsbETSKLYS7swC" version="15.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-08T19:46:12.791Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="jRtWUH4sBjfFcxzeo3ke" version="15.7.0" type="github">
   <diagram id="3TLoZ07AutrMq-KuwH9l" name="Helium Fuel Block">
     <mxGraphModel dx="1426" dy="1994" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -31,10 +31,10 @@
         <mxCell id="alUQvkPKiy3RBT4dOB0o-12" value="Basic" style="swimlane;startSize=20;horizontal=0;" vertex="1" parent="alUQvkPKiy3RBT4dOB0o-2">
           <mxGeometry y="380" width="1650" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="alUQvkPKiy3RBT4dOB0o-28" value="Toxic Metals&lt;br&gt;x 40" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="alUQvkPKiy3RBT4dOB0o-12">
+        <mxCell id="alUQvkPKiy3RBT4dOB0o-28" value="Toxic Metals&lt;br&gt;x 80" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="alUQvkPKiy3RBT4dOB0o-12">
           <mxGeometry x="70" y="30" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="alUQvkPKiy3RBT4dOB0o-29" value="Chiral Structures&lt;br&gt;x 40" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="alUQvkPKiy3RBT4dOB0o-12">
+        <mxCell id="alUQvkPKiy3RBT4dOB0o-29" value="Chiral Structures&lt;br&gt;x 80" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="alUQvkPKiy3RBT4dOB0o-12">
           <mxGeometry x="210" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="alUQvkPKiy3RBT4dOB0o-30" value="Reactive Metals&lt;br&gt;x 40" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="alUQvkPKiy3RBT4dOB0o-12">
@@ -49,16 +49,16 @@
         <mxCell id="alUQvkPKiy3RBT4dOB0o-13" value="Raw" style="swimlane;startSize=20;horizontal=0;" vertex="1" parent="alUQvkPKiy3RBT4dOB0o-2">
           <mxGeometry y="500" width="1650" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="alUQvkPKiy3RBT4dOB0o-32" value="Heavy Metals&lt;br&gt;x 3000" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="alUQvkPKiy3RBT4dOB0o-13">
+        <mxCell id="alUQvkPKiy3RBT4dOB0o-32" value="Heavy Metals&lt;br&gt;x 12000" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="alUQvkPKiy3RBT4dOB0o-13">
           <mxGeometry x="70" y="30" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="alUQvkPKiy3RBT4dOB0o-33" value="Non-CS Crystals&lt;br&gt;x 3000" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="alUQvkPKiy3RBT4dOB0o-13">
+        <mxCell id="alUQvkPKiy3RBT4dOB0o-33" value="Non-CS Crystals&lt;br&gt;x 12000" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="alUQvkPKiy3RBT4dOB0o-13">
           <mxGeometry x="210" y="30" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="alUQvkPKiy3RBT4dOB0o-41" value="Base Metals&lt;br&gt;x 3000" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="alUQvkPKiy3RBT4dOB0o-13">
+        <mxCell id="alUQvkPKiy3RBT4dOB0o-41" value="Base Metals&lt;br&gt;x 6000" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="alUQvkPKiy3RBT4dOB0o-13">
           <mxGeometry x="350" y="30" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="alUQvkPKiy3RBT4dOB0o-42" value="Noble Metals&lt;br&gt;x 3000" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="alUQvkPKiy3RBT4dOB0o-13">
+        <mxCell id="alUQvkPKiy3RBT4dOB0o-42" value="Noble Metals&lt;br&gt;x 6000" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="alUQvkPKiy3RBT4dOB0o-13">
           <mxGeometry x="490" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="alUQvkPKiy3RBT4dOB0o-69" value="Enriched Uranium&lt;br&gt;x 4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="alUQvkPKiy3RBT4dOB0o-13">
