@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-08T19:25:18.090Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="SwjYpizTqrTkI7NDLFwv" version="15.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-08T19:30:04.519Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="CjJbnjF1Eb62QgQ5jeLc" version="15.7.0" type="github">
   <diagram id="3TLoZ07AutrMq-KuwH9l" name="Helium Fuel Block">
     <mxGraphModel dx="1426" dy="1994" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -61,10 +61,10 @@
         <mxCell id="alUQvkPKiy3RBT4dOB0o-69" value="Enriched Uranium&lt;br&gt;x 4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="alUQvkPKiy3RBT4dOB0o-13">
           <mxGeometry x="730" y="-210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="alUQvkPKiy3RBT4dOB0o-71" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="alUQvkPKiy3RBT4dOB0o-13">
+        <mxCell id="alUQvkPKiy3RBT4dOB0o-71" value="Toxic Metals&lt;br&gt;x 40" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="alUQvkPKiy3RBT4dOB0o-13">
           <mxGeometry x="660" y="-90" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="alUQvkPKiy3RBT4dOB0o-72" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="alUQvkPKiy3RBT4dOB0o-13">
+        <mxCell id="alUQvkPKiy3RBT4dOB0o-72" value="Precious Metals&lt;br&gt;x 40" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="alUQvkPKiy3RBT4dOB0o-13">
           <mxGeometry x="800" y="-90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="alUQvkPKiy3RBT4dOB0o-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="alUQvkPKiy3RBT4dOB0o-13" source="alUQvkPKiy3RBT4dOB0o-72" target="alUQvkPKiy3RBT4dOB0o-69">
@@ -127,9 +127,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="alUQvkPKiy3RBT4dOB0o-6" value="Lanes denote commodity tier/type&lt;br&gt;Quantities below resource are input amount&lt;br&gt;To-do: Represent outputs" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="50" y="625" width="250" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="alUQvkPKiy3RBT4dOB0o-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="alUQvkPKiy3RBT4dOB0o-28">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="250" y="340" as="targetPoint" />
@@ -152,6 +149,12 @@
               <mxPoint x="530" y="390" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="alUQvkPKiy3RBT4dOB0o-90" value="&lt;b&gt;Notes:&lt;/b&gt;&lt;br&gt;- Lanes denote commodity/resource type&lt;br&gt;- Quantities below resource indicate input" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="50" y="630" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="alUQvkPKiy3RBT4dOB0o-91" value="&lt;b&gt;To-do:&lt;/b&gt;&lt;br&gt;- Represent output quantities&lt;br&gt;- Join matching inputs" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="85" y="695" width="170" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
