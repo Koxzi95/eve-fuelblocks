@@ -1,26 +1,26 @@
-<mxfile host="app.diagrams.net" modified="2021-11-08T19:32:36.395Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="NaLMfgkmLvoQvZ5bEqdq" version="15.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-08T19:33:35.176Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="KicAT42mvU9BNKJd77rI" version="15.7.0" type="github">
   <diagram id="3TLoZ07AutrMq-KuwH9l" name="Helium Fuel Block">
     <mxGraphModel dx="1426" dy="1994" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="alUQvkPKiy3RBT4dOB0o-2" value="Helium Fuel Block Industry Tiers" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;" vertex="1" parent="1">
-          <mxGeometry x="50" y="-10" width="1550" height="620" as="geometry" />
+          <mxGeometry x="50" y="-10" width="1920" height="620" as="geometry" />
         </mxCell>
         <mxCell id="alUQvkPKiy3RBT4dOB0o-3" value="Output" style="swimlane;startSize=20;horizontal=0;" vertex="1" parent="alUQvkPKiy3RBT4dOB0o-2">
-          <mxGeometry y="20" width="1550" height="120" as="geometry" />
+          <mxGeometry y="20" width="1920" height="120" as="geometry" />
         </mxCell>
         <mxCell id="alUQvkPKiy3RBT4dOB0o-14" value="Helium Fuel Block&lt;br&gt;Quantity: 40" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="alUQvkPKiy3RBT4dOB0o-3">
           <mxGeometry x="715" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="alUQvkPKiy3RBT4dOB0o-4" value="Specialized" style="swimlane;startSize=20;horizontal=0;" vertex="1" parent="alUQvkPKiy3RBT4dOB0o-2">
-          <mxGeometry y="140" width="1550" height="120" as="geometry" />
+          <mxGeometry y="140" width="1920" height="120" as="geometry" />
         </mxCell>
         <mxCell id="alUQvkPKiy3RBT4dOB0o-15" value="Robotics&lt;br&gt;x 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="alUQvkPKiy3RBT4dOB0o-4">
           <mxGeometry x="280" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="alUQvkPKiy3RBT4dOB0o-5" value="Refined" style="swimlane;startSize=20;horizontal=0;" vertex="1" parent="alUQvkPKiy3RBT4dOB0o-2">
-          <mxGeometry y="260" width="1550" height="120" as="geometry" />
+          <mxGeometry y="260" width="1920" height="120" as="geometry" />
         </mxCell>
         <mxCell id="alUQvkPKiy3RBT4dOB0o-26" value="Consumer Electronics&lt;br&gt;x 10" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="alUQvkPKiy3RBT4dOB0o-5">
           <mxGeometry x="140" y="30" width="120" height="60" as="geometry" />
@@ -29,7 +29,7 @@
           <mxGeometry x="420" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="alUQvkPKiy3RBT4dOB0o-12" value="Basic" style="swimlane;startSize=20;horizontal=0;" vertex="1" parent="alUQvkPKiy3RBT4dOB0o-2">
-          <mxGeometry y="380" width="1550" height="120" as="geometry" />
+          <mxGeometry y="380" width="1920" height="120" as="geometry" />
         </mxCell>
         <mxCell id="alUQvkPKiy3RBT4dOB0o-28" value="Toxic Metals&lt;br&gt;x 40" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="alUQvkPKiy3RBT4dOB0o-12">
           <mxGeometry x="70" y="30" width="120" height="60" as="geometry" />
@@ -44,7 +44,7 @@
           <mxGeometry x="490" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="alUQvkPKiy3RBT4dOB0o-13" value="Raw" style="swimlane;startSize=20;horizontal=0;" vertex="1" parent="alUQvkPKiy3RBT4dOB0o-2">
-          <mxGeometry y="500" width="1550" height="120" as="geometry" />
+          <mxGeometry y="500" width="1920" height="120" as="geometry" />
         </mxCell>
         <mxCell id="alUQvkPKiy3RBT4dOB0o-32" value="Heavy Metals&lt;br&gt;x 3000" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="alUQvkPKiy3RBT4dOB0o-13">
           <mxGeometry x="70" y="30" width="120" height="60" as="geometry" />
@@ -96,7 +96,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="alUQvkPKiy3RBT4dOB0o-92" value="Mechanical Parts&lt;br&gt;x 10" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="alUQvkPKiy3RBT4dOB0o-13">
+        <mxCell id="alUQvkPKiy3RBT4dOB0o-92" value="Mechanical Parts&lt;br&gt;x 4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="alUQvkPKiy3RBT4dOB0o-13">
           <mxGeometry x="1020" y="-210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="alUQvkPKiy3RBT4dOB0o-93" value="Reactive Metals&lt;br&gt;x 40" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="alUQvkPKiy3RBT4dOB0o-13">
@@ -134,7 +134,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="alUQvkPKiy3RBT4dOB0o-101" value="Mechanical Parts&lt;br&gt;x 10" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="alUQvkPKiy3RBT4dOB0o-13">
+        <mxCell id="alUQvkPKiy3RBT4dOB0o-101" value="Coolant" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="alUQvkPKiy3RBT4dOB0o-13">
           <mxGeometry x="1300" y="-210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="alUQvkPKiy3RBT4dOB0o-102" value="Reactive Metals&lt;br&gt;x 40" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="alUQvkPKiy3RBT4dOB0o-13">
@@ -226,8 +226,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="alUQvkPKiy3RBT4dOB0o-90" value="&lt;b&gt;Notes:&lt;/b&gt;&lt;br&gt;- Lanes denote commodity/resource type&lt;br&gt;- Quantities below resource indicate input" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="50" y="630" width="240" height="50" as="geometry" />
+        <mxCell id="alUQvkPKiy3RBT4dOB0o-90" value="&lt;b&gt;Notes:&lt;/b&gt;&lt;br&gt;- Lanes denote commodity/resource type&lt;br&gt;- Quantities below resource indicate required input not default" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry y="630" width="340" height="50" as="geometry" />
         </mxCell>
         <mxCell id="alUQvkPKiy3RBT4dOB0o-91" value="&lt;b&gt;To-do:&lt;/b&gt;&lt;br&gt;- Represent output quantities&lt;br&gt;- Join matching inputs" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="85" y="695" width="170" height="50" as="geometry" />
