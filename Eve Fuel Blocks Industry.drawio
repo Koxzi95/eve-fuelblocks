@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-08T19:37:15.480Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="gB8uKXTpgFSj2ZipPyqO" version="15.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-08T19:37:43.611Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="cDaziIM4R75o883H3f4H" version="15.7.0" type="github">
   <diagram id="3TLoZ07AutrMq-KuwH9l" name="Helium Fuel Block">
     <mxGraphModel dx="1426" dy="1994" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -233,11 +233,17 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="alUQvkPKiy3RBT4dOB0o-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="alUQvkPKiy3RBT4dOB0o-2" source="alUQvkPKiy3RBT4dOB0o-15" target="alUQvkPKiy3RBT4dOB0o-14">
+        <mxCell id="alUQvkPKiy3RBT4dOB0o-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="alUQvkPKiy3RBT4dOB0o-2" source="alUQvkPKiy3RBT4dOB0o-110" target="alUQvkPKiy3RBT4dOB0o-14">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="340" y="130" />
-              <mxPoint x="960" y="130" />
+              <mxPoint x="1570" y="80" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="alUQvkPKiy3RBT4dOB0o-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="alUQvkPKiy3RBT4dOB0o-2" source="alUQvkPKiy3RBT4dOB0o-15" target="alUQvkPKiy3RBT4dOB0o-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="80" />
             </Array>
           </mxGeometry>
         </mxCell>
